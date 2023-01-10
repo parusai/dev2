@@ -1,4 +1,11 @@
-sainath 
-first page
-hi sainath new chanes
-second changes 
+pipeline{
+agent any
+stages{
+stage{
+steps
+{echo 'hi'
+echo 'sai'
+}
+}
+}
+}
